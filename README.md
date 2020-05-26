@@ -4,12 +4,12 @@ Pads a sheet of sprites.
 
 ## TODO
 
-- implement config.extrude
-	- add config to only extrude certain tiles. how to define?
++ implement config.extrude
+	- add config to only extrude certain tiles ... how to define?
 	- by index? by individual tile? (like a grid?)
 - finish
-	- make executable via yarn
-	- try installing via yarn global
+	- make executable via yarn?
+		- try installing via yarn global
 	- parameterize config values
 	- finish usage section
 
