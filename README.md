@@ -5,7 +5,7 @@ Pads a sheet of sprites.
 ## TODO
 
 - fix bottom row bleeds when there is padding
-	- is it a reading or writing problem?
+	+ is it a reading or writing problem? -- appears to be a writing problem
 		- draw each tile in a separate file?
 - finish: parameterize config values
 
