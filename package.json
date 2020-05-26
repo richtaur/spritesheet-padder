@@ -1,4 +1,6 @@
 {
+  "name": "spritesheet-padder",
+  "version": "0.1.0",
   "dependencies": {
     "pngjs": "^5.0.0"
   }
