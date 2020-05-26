@@ -5,7 +5,9 @@ Pads a sheet of sprites.
 ## TODO
 
 - fix bottom row bleeds when there is padding
-- parameterize config values
+	- is it a reading or writing problem?
+		- draw each tile in a separate file?
+- finish: parameterize config values
 
 ## Usage
 
