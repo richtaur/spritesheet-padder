@@ -4,8 +4,6 @@ Pads a sheet of sprites.
 
 ## TODO
 
-+ fix bottom row bleeds when there is padding
-	+ is it a reading or writing problem? -- appears to be a writing problem
 - implement config.extrude
 	- add config to only extrude certain tiles. how to define?
 	- by index? by individual tile? (like a grid?)
