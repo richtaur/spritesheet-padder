@@ -2,6 +2,11 @@
 
 Pads a sheet of sprites.
 
+## TODO
+
+- fix bottom row bleeds when there is padding
+- parameterize config values
+
 ## Usage
 
 (WIP)
