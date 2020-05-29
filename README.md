@@ -4,14 +4,24 @@ Pads a sheet of sprites.
 
 ## TODO
 
++ finish
+	- include version in output
+	- parameterize config values
+		- install minimist
+		- hook up each config value
+	- finish usage section
+- bump to 1.0.0
+
 + implement config.extrude
 	- add config to only extrude certain tiles ... how to define?
 	- by index? by individual tile? (like a grid?)
-- finish
-	- make executable via yarn?
-		- try installing via yarn global
-	- parameterize config values
-	- finish usage section
+
+## How to install locally
+
+```
+yarn link
+yarn global add spritesheet-padder
+```
 
 ## Usage
 

@@ -1,7 +1,10 @@
 {
-  "name": "spritesheet-padder",
-  "version": "0.1.0",
-  "dependencies": {
-    "pngjs": "^5.0.0"
-  }
+	"name": "spritesheet-padder",
+	"version": "0.1.0",
+	"author": "Matt Hackett <richtaur@gmail.com>",
+	"license": "MIT",
+	"bin": "lib/index.js",
+	"dependencies": {
+		"pngjs": "^5.0.0"
+	}
 }
