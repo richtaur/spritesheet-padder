@@ -5,7 +5,7 @@ Pads a sheet of sprites.
 ## TODO
 
 + finish
-	- include version in output
+	+ include version in output
 	- parameterize config values
 		- install minimist
 		- hook up each config value
