@@ -4,12 +4,7 @@ Pads a sheet of sprites.
 
 ## TODO
 
-+ finish
-	+ include version in output
-	- parameterize config values
-		- install minimist
-		- hook up each config value
-	- finish usage section
+- finish usage section
 - bump to 1.0.0
 
 + implement config.extrude

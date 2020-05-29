@@ -5,6 +5,7 @@
 	"license": "MIT",
 	"bin": "lib/index.js",
 	"dependencies": {
+		"minimist": "^1.2.5",
 		"pngjs": "^5.0.0"
 	}
 }
