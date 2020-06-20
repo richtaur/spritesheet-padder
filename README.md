@@ -4,6 +4,7 @@ Pads a sheet of sprites.
 
 ## TODO
 
+- bug: oops package.json pulls from local folder
 + implement config.extrude
 	- add config to only extrude certain tiles ... how to define?
 	- by index? by individual tile? (like a grid? sounds cumbersome)
