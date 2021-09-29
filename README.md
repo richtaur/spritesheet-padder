@@ -14,7 +14,7 @@ Pads a sheet of sprites.
 
 ```
 yarn link (optional)
-yarn global add spritesheet-padder
+yarn global add ./spritesheet-padder
 ```
 
 ## Usage
