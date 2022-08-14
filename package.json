@@ -1,6 +1,6 @@
 {
 	"name": "spritesheet-padder",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"author": "Matt Hackett <richtaur@gmail.com>",
 	"license": "MIT",
 	"bin": "lib/index.js",
