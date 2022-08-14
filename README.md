@@ -13,6 +13,7 @@ Pads a sheet of sprites.
 ## How to install
 
 ```
+yarn
 yarn link (optional)
 yarn global add ./spritesheet-padder
 ```
